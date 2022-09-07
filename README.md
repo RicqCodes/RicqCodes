@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python Frameworks (Django)**
 
-- 👨‍💻 All of my projects are available at [https://prince.netlify.app/](https://prince.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ricqcodes.netlify.app/](https://prince.netlify.app/)
 
 - 💬 Ask me about **javascript,solidity, typescript, node.js, react, mongoDB, firebase etc.**
 

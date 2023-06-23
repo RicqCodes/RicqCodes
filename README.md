@@ -17,6 +17,10 @@
 <a href="https://discordapp.com/users/Prince_Dev#0148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.linkedin.com/in/princewill-nwakanma-6a6a99181/" height="40" width="40" /></a>
 </p>
 
+<br />
+<br />
+[![GitHub Streak](https://streak-stats.demolab.com?user=ricqcodes&theme=dark)](https://git.io/streak-stats)
+
 <br/>
 <br/>
 <p>A passionate frontend web developer with around 3 years of experience in the field. I have always been fascinated by the power of the web and its ability to connect people and bring ideas to life. Through my journey as a developer, I have developed a strong affinity for creating visually appealing and user-friendly web experiences.</p>

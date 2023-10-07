@@ -1,7 +1,6 @@
 <h1 align="center">Hi welcome, I'm Prince Nwakanma</h1>
 
 <div display='flex'>
- <p>While i am still building my portfolio, here's my portfolio 🙂<p/>
   <p align="left"> <a href="https://twitter.com/dechain_dev" target="blank"><img src="https://img.shields.io/twitter/follow/dechain_dev?logo=twitter&style=for-the-badge" alt="dechain_dev" /></a></p>
 </div>
 - 🔭 I’m currently working on **gaining experiences**
@@ -26,31 +25,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ricqcodes&theme=dark"/></a>
 
 
-
 <br/>
 <br/>
-<p>A passionate frontend web developer with around 3 years of experience in the field. I have always been fascinated by the power of the web and its ability to connect people and bring ideas to life. Through my journey as a developer, I have developed a strong affinity for creating visually appealing and user-friendly web experiences.</p>
 
-<p>Collaboration is at the heart of my work. I thoroughly enjoy working with clients, designers, and other developers to bring their visions to reality. I believe that effective communication and teamwork are essential for creating successful projects. I strive to understand the goals and requirements of each project to deliver high-quality solutions that meet both the client's and the user's needs.</p>
-
-<p>In recent times, I have been expanding my skill set to embrace the exciting world of web3. As a technology enthusiast, I am determined to explore the potential of blockchain and decentralized applications. By solidifying my knowledge of web3 technologies, I aim to become a proficient fullstack developer for both web2 and web3 applications. This journey has been incredibly rewarding, and I am excited to continue learning and contributing to this evolving ecosystem.</p>
-
-<p>Alongside my web3 endeavors, I am also honing my skills in PHP and Laravel. These powerful tools enable me to create robust and scalable web applications for the modern web. By combining my frontend expertise with backend development, I am striving to become a versatile full stack web developer capable of delivering comprehensive solutions to meet diverse project requirements.</p>
-
-<p>I am currently seeking new opportunities to collaborate with like-minded individuals and organizations. If you have an exciting project or if you would like to discuss potential collaborations, I would be thrilled to hear from you. Feel free to reach out via the contact information provided on my portfolio website. </p>
-
-<h2>Projects</h2>
-<h4>Here are a few applications i have worked on with public repos<h4/>
-
-<h5>NFT Listing Dapp:</h5>
-<p>It discover, organize, and display your ERC721 and ERC1155 NFT collection effortlessly with this sleek NFT Listing <a href="https://github.com/RicqCodes/NFT_List" target="_blank" rel="noreferer">Application</a>. it helps you explore with a user-friendly interface and showcase your digital treasures in stunning detail. Experience the power of seamless organization and delightful visual presentation for your NFTs like never before 😁.</p>
-
-<h5>Voting Dapp:</h5>
-  <p>A powerful cutting-edge <a href="https://github.com/RicqCodes/Voting_System_Frontend" target="_blank" rel="noreferer">Voting-Dapp</a> Designed with simplicity and efficiency in mind, the platform allows users to create proposals  and share them with their community, the creator needs to hold a role to be able to create proposals. Think of the role as political role. Experience real-time updates as each vote is cast, ensuring transparency and engagement throughout the decision-making process.</p>
-  
- <h5>Token Launchpad:</h5>
-  <p>the ultimate platform for turning users project dreams into reality! <a href="https://github.com/RicqCodes/Crypto_Launcher" target="_blank" rel="noreferer">token launchpad</a> is a launchpad, where you can effortlessly raise funds and kickstart your venture. Create your launchpad, generate an ERC20 token, and enjoy seamless liquidity and token locking services all in one place.</p>
-  
 - ⚡ Fun fact **NASA’s internet speed is 91 GB per second.**
 
 <h3 align="left">Languages and Tools:</h3>

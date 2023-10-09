@@ -3,26 +3,40 @@
 <div display='flex'>
   <p align="left"> <a href="https://twitter.com/dechain_dev" target="blank"><img src="https://img.shields.io/twitter/follow/dechain_dev?logo=twitter&style=for-the-badge" alt="dechain_dev" /></a></p>
 </div>
-- 🔭 I’m currently working on **gaining experiences**
+<p>A certified result-oriented Full stack developer with expertise in Typescript, React, Solidity and node. Having 3+ years of
+experience in web and mobile development at Top tech companies that have secured millions in funding and have
+launched globally used products.</p>
 
-- 👨‍💻 All of my public projects are available here on github.
-
-- 💬 Ask me about **javascript,solidity, typescript, node.js, react, mongoDB etc.**
-
+<p>
+- 🇳🇬 I'm currently based in Nigeria
+</p>
+<p>
+- 👨‍💻 See my <a href="https://ricqcodes.dev" target="_blank" rel="noreferer">portfolio</a>
+</p>
+<p>
+- 🧠 I’m currently learning Rust
+</p>
+<p>
 - 📫 How to reach me? Connect with me:
+</p>
 <p align="left">
 <a href="https://twitter.com/dechain_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dechain_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/princewill-nwakanma-6a6a99181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/princewill-nwakanma-6a6a99181/" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/Prince_Dev#0148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.linkedin.com/in/princewill-nwakanma-6a6a99181/" height="40" width="40" /></a>
+ <a href="mailto:nwakanmaprince1996@gmail.com" target="_blank" rel="noreferer">Mail</a>
 </p>
 
 <br />
 <br />
 
 
+<h2>Github Stats</h2>
+<div>
+<a href="https://github.com/ricqcodes"><img src="https://streak-stats.demolab.com?user=ricqcodes&theme=dark"/></a>
+<a href="https://github.com/ricqcodes"><img src="https://github-readme-stats.vercel.app/api?username=ricqcodes&theme=dark"/></a>
+<a href="https://github.com/williamslsy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricqcodes&langs_count=5&title_color=ffff&text_color=ffff&icon_color=ec4899&bg_color=141414&hide_border=false&border_color=ffff&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ricqcodes&theme=dark"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ricqcodes&theme=dark"/></a>
+</div>
 
 
 <br/>

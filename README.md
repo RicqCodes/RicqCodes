@@ -34,7 +34,7 @@ launched globally used products.</p>
 <div>
 <a href="https://github.com/ricqcodes"><img src="https://streak-stats.demolab.com?user=ricqcodes&theme=dark"/></a>
 <a href="https://github.com/ricqcodes"><img src="https://github-readme-stats.vercel.app/api?username=ricqcodes&theme=dark"/></a>
-<a href="https://github.com/williamslsy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricqcodes&langs_count=5&title_color=ffff&text_color=ffff&icon_color=ec4899&bg_color=141414&hide_border=false&border_color=ffff&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ricqcodes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricqcodes&langs_count=5&title_color=ffff&text_color=ffff&icon_color=ec4899&bg_color=141414&hide_border=false&border_color=ffff&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </div>
 

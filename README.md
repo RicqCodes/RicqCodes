@@ -1,4 +1,4 @@
-<h1 align="center">Hi welcome, I'm Prince Nwakanma</h1>
+<h1 align="center">Hi I'm Prince Nwakanma</h1>
 
 <div display='flex'>
   <p align="left"> <a href="https://twitter.com/dechain_dev" target="blank"><img src="https://img.shields.io/twitter/follow/dechain_dev?logo=twitter&style=for-the-badge" alt="dechain_dev" /></a></p>

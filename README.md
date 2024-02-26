@@ -32,9 +32,11 @@ launched globally used products.</p>
 
 <h2>Github Stats</h2>
 <div>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ricqcodes" /></a>
 <a href="https://github.com/ricqcodes"><img src="https://streak-stats.demolab.com?user=ricqcodes&theme=dark"/></a>
 <a href="https://github.com/ricqcodes"><img src="https://github-readme-stats.vercel.app/api?username=ricqcodes&theme=dark"/></a>
 <a href="https://github.com/ricqcodes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricqcodes&langs_count=5&title_color=ffff&text_color=ffff&icon_color=ec4899&bg_color=141414&hide_border=false&border_color=ffff&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://wakatime.com/@018de4cf-c9b0-42ae-84d9-287a6add4266"><img src="https://wakatime.com/badge/user/018de4cf-c9b0-42ae-84d9-287a6add4266.svg?style=social" alt="Total time coded since Feb 26 2024" /></a>
 
 </div>
 

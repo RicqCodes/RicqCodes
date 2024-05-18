@@ -3,18 +3,18 @@
 <div display='flex'>
   <p align="left"> <a href="https://twitter.com/dechain_dev" target="blank"><img src="https://img.shields.io/twitter/follow/dechain_dev?logo=twitter&style=for-the-badge" alt="dechain_dev" /></a></p>
 </div>
-<p>A certified result-oriented Full stack developer with expertise in Typescript, React, Solidity and node. Having 3+ years of
+<p>A certified result-oriented Full stack developer with expertise in Typescript, React,Rust,Solidity and node. Having 5+ years of
 experience in web and mobile development at Top tech companies that have secured millions in funding and have
 launched globally used products.</p>
 
 <p>
-- 🇳🇬 I'm currently based in Nigeria
+- I'm currently based in the UK
 </p>
 <p>
 - 👨‍💻 See my <a href="https://ricqcodes.dev" target="_blank" rel="noreferer">portfolio</a>
 </p>
 <p>
-- 🧠 I’m currently learning Rust
+- 🧠 I’m currently learning Python
 </p>
 <p>
 - 📫 How to reach me? Connect with me:
